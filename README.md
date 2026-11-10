@@ -38,8 +38,8 @@ Results (T = 10):
 
 ## Part 2a – Term Document Matrix (3 pts)
 
-**Who:** Name TBD
-**Status:** Not started
+**Who:** Bella
+**Status:** In Progress
 
 Build the TDM: 52 rows (paragraphs) × 161 columns (feature words). Each cell = how many times that word appears in that paragraph. Reuse `main()` from `feature_vector.py`.
 
@@ -47,8 +47,8 @@ Build the TDM: 52 rows (paragraphs) × 161 columns (feature words). Each cell = 
 
 ## Part 2b – Explain steps A–H (2 pts)
 
-**Who:** Name TBD
-**Status:** Not started
+**Who:** Bella
+**Status:** In Progress
 
 For each step A–H: what it's for, and what information gets lost by doing it.
 
